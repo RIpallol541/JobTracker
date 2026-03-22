@@ -180,7 +180,7 @@ docker compose build frontend
 ├── .env.example
 ├── README.md
 ├── docs/
-│   └── ЗАПУСК.md          # краткая памятка по запуску
+│   └── ЗАПУСК.md          # полная пошаговая инструкция по запуску
 ├── backend/
 │   ├── Dockerfile
 │   ├── requirements.txt
