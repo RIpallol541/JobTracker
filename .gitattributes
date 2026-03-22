@@ -1,0 +1,2 @@
+# Shell-скрипты для Linux-контейнеров всегда с LF (иначе CRLF ломает shebang / exec)
+*.sh text eol=lf
